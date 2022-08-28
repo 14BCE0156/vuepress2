@@ -1,0 +1,21 @@
+{
+  "name": "SDE Jenkins Owners Manual",
+  "short_name": "JenkinsManual",
+  "description": "Technical reference for Jenkins offered by the SDE Team.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#148a68",
+  "icons": [
+    {
+      "src": "/favicon-32x32.png",
+      "sizes": "22x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    }
+  ]
+}

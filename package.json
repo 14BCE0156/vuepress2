@@ -1,0 +1,20 @@
+{
+  "name": "github-guide-vuepress2",
+  "version": "1.0.0",
+  "description": "GitHub Guide using Vuepress2",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.ford.com/Somya-TestOrg/github-guide-vuepress2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vuepress/plugin-search": "^2.0.0-beta.49",
+    "vuepress": "^2.0.0-beta.49"
+  }
+}
